@@ -24,10 +24,3 @@ Low level requirements.
  3.User shall be able to save the data User shall be able to see the previous data
  
  4.User shall be able to work on previous data
- 
-
-* Capture all the requirements wrt system, module, interface, integration, testing, Functional and Non-functional
-* Captures Basic Planning of the project through - Sample Gantt Chart attached
-
-* Tools: MS Excel, MS word or Similar
-
