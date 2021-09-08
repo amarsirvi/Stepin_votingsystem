@@ -1,4 +1,6 @@
 [![Code Grade](https://www.code-inspector.com/project/27819/score/svg)](https://frontend.code-inspector.com/public/project/27819/Stepin_votingsystem/dashboard)
+
+![Qyality grade](https://www.code-inspector.com/project/27819/score/svg)
 # Project Information
  Mini-Voting-System-Using-C-Language
 
