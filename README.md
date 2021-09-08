@@ -13,5 +13,5 @@
 ## For Admin Panel  Username: "Admin" Password: "admiN"
 ## We can add any number of candidates .
 ## Students can vote according to their choices by login their userid's
-## In the admin pannel, admin can ban and delete the votes of students who are not eligible fot giving votes.
+## In the admin pannel, admin can delete the votes of students who are not eligible for giving votes.
 ## After the election the admin can check the results.
