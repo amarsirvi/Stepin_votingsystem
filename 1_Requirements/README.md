@@ -1,12 +1,4 @@
 # Requirements
-
-
-
-
-
-
-
-
 High level reqiurements.
 
  1.User could be able to login
@@ -22,7 +14,6 @@ High level reqiurements.
  6.Data should always be stored when closing the system
  
  7.Admin should be able to maintain all the records.
- 
  
 Low level requirements.
 
