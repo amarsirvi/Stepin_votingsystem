@@ -12,8 +12,8 @@
    Admit new members to your group. This helps you stick to a regular, fair process of evaluation and lets candidates know what to expect.
       Gather anonymous feedback from your employees. Managers (and managers of managers) want to know how their employees truly feel about their jobs and work life. Using an             online voting system with a capacity for secret balloting helps employees express their true feelings, by understanding and trusting that their feedback will be heard, but         not tied directly to them.
 
-# Requirements
-High level reqiurements.
+###  Requirements
+# High level reqiurements.
 
  1.User could be able to login
  
@@ -29,7 +29,7 @@ High level reqiurements.
  
  7.Admin should be able to maintain all the records.
  
-Low level requirements.
+# Low level requirements.
 
  1.admin should be able to ban the candidates who are not eligible for votes.
  
