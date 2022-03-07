@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a2753c7c42d349188ccce0e6a0b1a416)](https://app.codacy.com/gh/amarsirvi/Stepin_votingsystem?utm_source=github.com&utm_medium=referral&utm_content=amarsirvi/Stepin_votingsystem&utm_campaign=Badge_Grade_Settings)
 [![Code Grade](https://www.code-inspector.com/project/27819/score/svg)](https://frontend.code-inspector.com/public/project/27819/Stepin_votingsystem/dashboard)
 
 ![Qyality grade](https://www.code-inspector.com/project/27819/status/svg)
